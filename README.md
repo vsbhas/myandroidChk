@@ -1,0 +1,2 @@
+# myandroidChk
+check android
